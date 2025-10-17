@@ -1,7 +1,7 @@
 # Ponderada de programação - parte 1 - blink led interno
 
 ## Print do código
-&nbsp; &nbsp; &nbsp; &nbsp;A figura abaixo demonstra o código utilizado no Arduino IDE para este projeto.
+&nbsp; &nbsp; &nbsp; &nbsp;A figura abaixo demonstra o código utilizado no Arduino IDE para o blink de led interno no arduino.
 <div align = "center">
     <p>Figura 1 - Print do código da parte 1 da ponderada da semana 1</p>
 </div>
