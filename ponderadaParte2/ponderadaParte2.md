@@ -29,6 +29,10 @@
 </div><br>
 
 &nbsp; &nbsp; &nbsp; &nbsp;Já a figura 3 apresenta o funcionamento do pisca-pisca na simulação no Tinkercad. 
+<div align = "center">
+    <p>Figura 3 - Circuito do pisca-pisca funcionando</p>
+</div>
+
 ![alt text](../assets/circuitoFuncionandoParte2.png)
 <div align = "center">
     <p>Fonte: material produzido pela autora no Tinkercad (2025).</p>
