@@ -1,6 +1,6 @@
 # Ponderada de programação - parte 2 - blink led externo
-## Print e link do código
-&nbsp; &nbsp; &nbsp; &nbsp;A figura abaixo apresenta o código que foi usado na simulação de blink com led externo no Tinkercad. Logo abaixo da imagem, está o link para acessar o projeto no próprio Tinkercad.
+## Print e link do código e vídeo demonstrativo
+&nbsp; &nbsp; &nbsp; &nbsp;A figura abaixo apresenta o código que foi usado na simulação de blink com led externo no Tinkercad. Logo abaixo da imagem, está o link para acessar o projeto no próprio Tinkercad e o link com o vídeo demonstrativo do projeto.
 
 <div align = "center">
     <p>Figura 1 - Print do código da parte 2 da ponderada da semana 1</p>
@@ -12,6 +12,11 @@
 </div> <br>
 
 &nbsp; &nbsp; &nbsp; &nbsp;Link para acessar o projeto no Tinkercad: [clique aqui](https://www.tinkercad.com/things/ip1mbR4iGLG-amazing-stantia-jaban/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=06DYJjZioR6i3qQb4Cf6d7Qu32VUsGblOD-ddUcUfy8)
+
+<br>
+
+&nbsp; &nbsp; &nbsp; &nbsp;Link para acessar o vídeo demonstrativo do projeto: [clique aqui](https://drive.google.com/file/d/1VFkg9J44pz1ug2Rt5hNDlpW_NxQMUTVd/view?usp=sharing)
+
 
 <br>
 
