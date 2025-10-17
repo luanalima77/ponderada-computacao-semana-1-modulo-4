@@ -6,7 +6,7 @@
     <p>Figura 1 - Print do código da parte 1 da ponderada da semana 1</p>
 </div>
 
-![alt text](assets/codigo.png)
+![alt text](../assets/codigoParte1.png)
 <div align = "center">
     <p>Fonte: material retirado do Arduino IDE pela autora (2025)</p>
 </div>
@@ -18,7 +18,7 @@
     <p>Figura 2 - Foto do led interno do arduino desligado</p>
 </div>
 
-![alt text](assets/desligado.png)
+![alt text](../assets/ledInternoDesligado.png)
 
 <div align = "center">
     <p>Fonte: material produzido pela autora (2025).</p>
@@ -28,7 +28,7 @@
     <p>Figura 3 - Foto do led interno do arduino ligado</p>
 </div>
 
-![alt text](assets/ligado.png)
+![alt text](../assets/ledInternoLigado.png)
 <div align = "center">
     <p>Fonte: material produzido pela autora (2025).</p>
 </div> <br><br>
